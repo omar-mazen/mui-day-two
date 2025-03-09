@@ -21,7 +21,12 @@ function ServiceHighlights() {
               Affirm provides flexible payment solutions, allowing you to buy
               better and pay over time.
             </Typography>
-            <Button variant="contained">Learn More</Button>
+            <Button
+              variant="contained"
+              sx={{ display: "block", marginTop: "10px" }}
+            >
+              Learn More
+            </Button>
           </Box>
         </Grid2>
         <Grid2 size={6}>
@@ -33,7 +38,12 @@ function ServiceHighlights() {
               Affirm provides flexible payment solutions, allowing you to buy
               better and pay over time.
             </Typography>
-            <Button variant="contained">Learn More</Button>
+            <Button
+              variant="contained"
+              sx={{ display: "block", marginTop: "10px" }}
+            >
+              Learn More
+            </Button>
           </Box>
         </Grid2>
         <Grid2 size={6}>
@@ -59,7 +69,12 @@ function ServiceHighlights() {
               Affirm provides flexible payment solutions, allowing you to buy
               better and pay over time.
             </Typography>
-            <Button variant="contained">Learn More</Button>
+            <Button
+              variant="contained"
+              sx={{ display: "block", marginTop: "10px" }}
+            >
+              Learn More
+            </Button>
           </Box>
         </Grid2>
       </Grid2>
